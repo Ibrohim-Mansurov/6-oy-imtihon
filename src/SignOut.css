@@ -1,0 +1,47 @@
+.overlar {
+  width: 100vw;
+  height: 980px;
+  background: #000000db;
+  position: absolute;
+  top: 0;
+}
+.modal {
+  width: 672px;
+  height: 303px;
+  background: #f5c147;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 18px 25px 70px 0;
+}
+.cansel__btn {
+  background: transparent;
+  border: none;
+  position: absolute;
+  right: 25px;
+}
+.modal__text {
+  color: #000;
+  font-size: 30px;
+  font-weight: 400;
+  margin-top: 34px;
+}
+.modal__text2 {
+  color: #000;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 28px;
+  margin-bottom: 27px;
+}
+.sign-out__btn {
+  width: 248px;
+  height: 64px;
+  border-radius: 10px;
+  background: #000;
+  border: none;
+  color: #f5c147;
+  font-size: 20px;
+  font-weight: 400;
+}

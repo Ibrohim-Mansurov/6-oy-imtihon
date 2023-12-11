@@ -1,0 +1,18 @@
+.overlar2 {
+  width: 100vw;
+  height: 980px;
+  background: #000000db;
+  position: absolute;
+  top: 0;
+}
+.modal2 {
+  width: 672px;
+  height: 303px;
+  background: #f5c147;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 18px 25px 70px 0;
+}
